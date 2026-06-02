@@ -1,6 +1,9 @@
 {
   "name": "@middy/monorepo",
   "version": "5.3.2",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "description": "🛵 The stylish Node.js middleware engine for AWS Lambda",
   "private": true,
   "type": "module",
